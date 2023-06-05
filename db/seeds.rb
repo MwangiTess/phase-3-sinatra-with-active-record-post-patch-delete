@@ -32,3 +32,5 @@ end
 end
 
 puts "🌱 Done seeding!"
+
+created_at
